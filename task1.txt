@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>Registration form</title>
+</head>
+<center>
+<body>
+<form>
+<table width="1000"px>
+</tr>
+<tr>
+<td>
+      <label for="first_name"> First Name: </label>
+</td>
+<td>
+    <input type="text" maxlength="50" size"30">
+</td>
+</tr>
+<tr>
+<td>
+    <label for="last_name"> Last Name: </label>
+</td>
+<td>
+    <input type="text" maxlength="50" size"30">
+</td>
+
+</tr>
+<tr>
+<td>
+    <label for="age"> Age: </label>
+</td>
+<td>
+    <input type="text" maxlength="50" size"30">
+</td>
+
+</tr>
+<tr>
+<td>
+<label for="email">E-mail: </label>
+</td>
+<td>
+    <input type= "text" name="email" maxlength="50" size="30">
+</td>
+<tr>
+<td>
+    <label for="password"> Password: </label>
+
+</td>
+<td>
+    <input type= "text" name="password" maxlength="50" size="30">
+</td>
+Write to Jannatul Baki Preety
+Jannatul Baki Preety
+Jannatul Baki Preety
